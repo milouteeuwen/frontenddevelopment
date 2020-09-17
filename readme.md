@@ -77,3 +77,19 @@ ik kies voor deze website omdat ik heel veel van dieren hou, en de site wel een 
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-      ](images/homepage2.png )
+
+## les 2 (week 2)
+2e werkgroep, we gingen aan de slag met positionering en ik vond het super goed gaan toen ik de opgaven maakte, ik wilde het toe gaan passen op mijn site, maar het lukte niet. vervolgens heb ik voor werkgroep 3 een gesprekje aangekaart helaas alleen bijgelopen met het procesboek en de opdrachten en nog niet begonnen met de site.
+
+## les 3 (week 2)
+3e werkgroep, gesprekje gehad met Danny. Vind het gewoon heel lastig en vooral omdat we wel steeds verder gaan met tijd en oefeningen alleen ik niks aan de site die ik heb heb kunnen doen. Ik heb de hele middag sites bezocht en heb gekeken naar een site die ik kan verbeteren. Nu heb ik de henry stofzuiger site gekozen. Ik heb het idee dat ik hiermee wel wat meer kan. Ik wil kijken of ik iets met css kan zoals animatie van kleine opjecten. Ik heb wel de stap gezet om even iemand in te schakelen die me even met het begin kan helpen volgende week heb ik een uurtje een afspraak, ik merk gewoon dat ik met alle vakken prima ga, maar met dit vak zoveel opstart problemen heb. Niet zo zeer dat ik geen motivatie heb want ik denk dat wel de meeste uren hierin zitten, alleen ik ben er gewoon niet zo goed in.
+
+## maandag 13 sep
+Het loopt allemaal niet lekker met de site dus ik heb gekozen voor een nieuwe site. In plaats dat ik ga voor responsive wil ik mij denk toch meer verdiepen in de interactie, dat lijkt me leuker om te doen. Ik wil de site verbeteren want hoe die nu is is hij heel saai en lelijk. Ik wil mijn eigen draai eraan geven.
+
+![](images/henryhome.png )
+![](images/henrytekst.png )
+![](images/henrybutton.png )
+
+## les 4 (week 3)
+4e werkgroep, Ik heb na het gesprek met Danny gezocht naar een andere site en ik ben begonnen om de basis neer te zetten in html. Dat ging wel prima. Hierna ben ik voor een deel aan de slag gegaan met css. Dit ging wel goed in het begin maar ik had uiteindelijk wel puntjes waar ik in vast liep zoals de header waarvan ik de afbeeldingen niet dicht tegen elkaar aan krijg en de stofzuiger foto's die wel naast elkaar komen maar de tekst die er niet vanaf breekt. Ik heb woensdag bijles en dan hoop ik dat ik bij mijn problemen geholpen word.
