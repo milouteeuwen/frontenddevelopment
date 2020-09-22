@@ -1,0 +1,81 @@
+body {
+  font-family: 'Barlow', sans-serif;
+  background-color: white;
+  max-width: 100%;
+  margin: 0;
+}
+
+main {
+  margin: 0.5em;
+}
+
+header {}
+
+
+header ul {
+  position: fixed;
+  top: 0;
+  background-color: #262A2B;
+  padding: 10px 20px;
+  display: flex;
+  list-style: none;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 17px;
+  font-family: 'Barlow', sans-serif;
+}
+
+.roze {
+  color: #fa6160;
+  /* font-size: 16px; */
+  font-weight: bold;
+}
+
+header ul li img {
+
+  top: 0;
+  left: 0;
+  right: 0;
+  max-width: 18%;
+}
+
+header nav img {
+  /* max-width: 9em; */
+}
+
+main section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main section figure {
+  /* flex-basis: 40%; */
+  margin: 0;
+  /* padding: 0.5em; */
+}
+
+main section figure img {
+  width: 5em;
+}
+
+main a {
+  background-color: #61ce70;
+  width: 10em;
+  height: 2.5em;
+  display: block;
+  margin: auto;
+  color: white;
+  text-align: center;
+  line-height: 2.5em;
+  border-radius: .3em;
+}
+
+main a:hover {
+  background-color: grey;
+}
+
+a {
+  text-decoration: none;
+}
