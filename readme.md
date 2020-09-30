@@ -102,6 +102,6 @@ Het loopt allemaal niet lekker met de site dus ik heb gekozen voor een nieuwe si
 
 ## 30 september (week 4)
 30 september had ik slb, maar naar de les nog even naar Danny gegaan om een paar vragen te stellen.
-ook heb ik even naar het beoordelingsformulier met hem gekeken en met de antwoorden ben ik wel iets rustiger geworden. Ook de oefeningen van javascript gemaakt, ik ben er niet meer zo bang voor. Gekeken naar het hamburger menu, maar het lukt me niet om de 2e ul te selecteren dus even in teams gevraagd welke selecteer ik het beste kan gebruiken. Uiteindelijk door gegaan, maar loop helemaal vast, 10 keer de code gecheckt en zou niet weten waarom het niet zou werken...
+ook heb ik even naar het beoordelingsformulier met hem gekeken en met de antwoorden ben ik wel iets rustiger geworden. Ook de oefeningen van javascript gemaakt, ik ben er niet meer zo bang voor. Gekeken naar het hamburger menu, maar het lukt me niet om de 2e ul te selecteren dus even in teams gevraagd welke selecteer ik het beste kan gebruiken. Uiteindelijk door gegaan, maar loop helemaal vast, 10 keer de code gecheckt en zou niet weten waarom het niet zou werken... Maar in iederbeval is het positioneren wel al gelukt, dat was ook al een ding.
 ![](images/officieelmenu.png)
 ![](images/mijnmenu.png )
