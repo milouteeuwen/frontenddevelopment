@@ -1,12 +1,12 @@
 console.log("doe tie t?");
 
-var menu = document.getElementsByClassName("lala");
-var paginas = document.getElementsByClassName("hehe");
+var menu = document.querySelector(".lala");
+var paginas = document.querySelector(".hehe");
 
 menu.addEventListener("click", laatZien);
 
 function laatZien() {
 
-  paginas.classlist.toggle("go");
+  paginas.classList.toggle("go");
 
 }
