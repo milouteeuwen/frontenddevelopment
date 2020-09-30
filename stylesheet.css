@@ -9,10 +9,12 @@ main {
   margin: 0.5em;
 }
 
-header {}
+header {
+  display: flex;
+}
 
-
-header ul {
+/* header ul {
+  width: 100%;
   position: fixed;
   top: 0;
   background-color: #262A2B;
@@ -20,6 +22,43 @@ header ul {
   display: flex;
   list-style: none;
   margin-top: 0;
+} */
+header ul {
+  position: absolute;
+  right: 0em;
+  left: 0em;
+  text-align: left;
+  font-weight: bold;
+  list-style: none;
+  background-color: #E9EAE9;
+  top: 10.4em;
+  display: flex;
+  flex-direction: column;
+  /* opacity: 0; */
+}
+
+header li {
+  position: relative;
+  margin: .4em;
+  color: #494C4F;
+}
+
+header li:hover {
+  background-color: white;
+}
+
+header li:active {
+  background-color: pink;
+  color: white;
+}
+
+header button {
+  border: white;
+  background-color: white;
+}
+
+.go {
+  opacity: 1;
 }
 
 h1 {
@@ -34,7 +73,6 @@ h1 {
 }
 
 header ul li img {
-
   top: 0;
   left: 0;
   right: 0;
@@ -42,7 +80,17 @@ header ul li img {
 }
 
 header nav img {
-  /* max-width: 9em; */
+  position: relative;
+  top: 2.4em;
+  padding: 4em 0em 5em 4em;
+  width: 30%;
+}
+
+header nav img:nth-of-type(2) {
+  position: absolute;
+  right: 1em;
+  top: 1.6em;
+  width: 2.7em;
 }
 
 main section {
@@ -52,30 +100,57 @@ main section {
 
 main section figure {
   /* flex-basis: 40%; */
-  margin: 0;
+  margin: 0.5em;
   /* padding: 0.5em; */
 }
 
 main section figure img {
-  width: 5em;
-}
-
-main a {
-  background-color: #61ce70;
   width: 10em;
-  height: 2.5em;
-  display: block;
-  margin: auto;
-  color: white;
-  text-align: center;
-  line-height: 2.5em;
-  border-radius: .3em;
 }
 
-main a:hover {
+main h2 {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+main h3 {
+  font-size: 1.5em;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 1em;
+}
+
+footer p:nth-of-type(3) {
+  font-weight: bold;
+}
+
+.groenebutton:hover {
   background-color: grey;
 }
 
 a {
   text-decoration: none;
+}
+
+.groenebutton {
+  position: relative;
+  left: 0;
+  background-color: #61ce70;
+  color: white;
+  border: none;
+  width: 15em;
+  height: 3.5em;
+  display: block;
+  margin: auto;
+  font-size: 1em;
+  text-align: center;
+  line-height: 2.5em;
+  border-radius: .2em;
+}
+
+.normalelink {
+  color: hotpink;
+  background-color: none;
 }
