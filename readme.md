@@ -93,3 +93,15 @@ Het loopt allemaal niet lekker met de site dus ik heb gekozen voor een nieuwe si
 
 ## les 4 (week 3)
 4e werkgroep, Ik heb na het gesprek met Danny gezocht naar een andere site en ik ben begonnen om de basis neer te zetten in html. Dat ging wel prima. Hierna ben ik voor een deel aan de slag gegaan met css. Dit ging wel goed in het begin maar ik had uiteindelijk wel puntjes waar ik in vast liep zoals de header waarvan ik de afbeeldingen niet dicht tegen elkaar aan krijg en de stofzuiger foto's die wel naast elkaar komen maar de tekst die er niet vanaf breekt. Ik heb woensdag bijles en dan hoop ik dat ik bij mijn problemen geholpen word.
+
+## les 4 (week 3)
+24 september, er is een extra vragenuurtje ingeplant dus natuurlijk meteen mijn kans gegrepen op hulp te krijgen. Ik was in de les de enige dus had 2 student assistenten en Danny die me hielpen. Ze hebben mij geholpen om de header sticky te maken en de flexbox van de stofzuigers te helpen. Ik liep vast, maar was kennelijk al bijna klaar want bij de header miste een ";" en bij de stofzuigers dacht ik dat ik iets al gedaan had wat niet werkte, maar dat werkte kennelijk wel alleen had ik hem niet op de Parent maar op de children gezet waardoor hij de verkeerde had aangepast.
+
+## les 5 (week 4)
+28 september, werkgroep 5, ik heb het laatste deel van werkgroep a gevolgd. Hierin werd het beoordelingsformulier behandeld voor de toetsing, verder heb ik het eerste deel van werkgroep b gevolgd over wanneer je transformatie gebruikt en wanneer animatie. Ik was naar Texel voor de verjaardag van mijn moeder vandaar dat ik er deze les niet helemaal bij was.
+
+## 30 september (week 4)
+30 september had ik slb, maar naar de les nog even naar Danny gegaan om een paar vragen te stellen.
+ook heb ik even naar het beoordelingsformulier met hem gekeken en met de antwoorden ben ik wel iets rustiger geworden. Ook de oefeningen van javascript gemaakt, ik ben er niet meer zo bang voor. Gekeken naar het hamburger menu, maar het lukt me niet om de 2e ul te selecteren dus even in teams gevraagd welke selecteer ik het beste kan gebruiken. Uiteindelijk door gegaan, maar loop helemaal vast, 10 keer de code gecheckt en zou niet weten waarom het niet zou werken...
+[](images/officieelmenu.png )
+[](images/mijnmenu.png )
