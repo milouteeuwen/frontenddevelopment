@@ -10,3 +10,14 @@ function laatZien() {
   paginas.classList.toggle("go");
 
 }
+
+var logo = document.querySelector("header nav img");
+var fotos = document.querySelector("main div figure img")
+
+logo.addEventListener("click", rollerCoaster);
+
+function rollerCoaster() {
+
+  fotos.classList.toggle("draai");
+
+}
