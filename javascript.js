@@ -21,3 +21,17 @@ function rollerCoaster() {
   fotos.classList.toggle("draai");
 
 }
+
+// help!
+var sortering = document.querySelector(".sortering");
+var alleFigures =
+// ik kan die fotos niet ophalen=, geen idee how!
+["foto 1",
+  ""
+]
+
+sortering.addEventListener("click", verspringen);
+
+function verspringen() {
+  alleFigures.classList.toggle("verspringen")
+}

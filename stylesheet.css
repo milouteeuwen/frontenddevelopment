@@ -48,7 +48,7 @@ header nav li {
   color: #494C4F;
 }
 
-header nav li:hover {
+header nav li:hover, focus {
   background-color: #fa6160;
   color: white;
 }
@@ -63,7 +63,7 @@ header nav li a {
   color: #494C4F;
 }
 
-header nav li a:hover {
+header nav li a:hover, focus {
   color: white;
 }
 
@@ -78,7 +78,7 @@ header button {
 
 .draai {
   transition: all 1s;
-  transform:rotate(-180deg) scale(0.5); 
+  transform:rotate(-180deg) scale(0.5);
 }
 
 h1 {
@@ -88,7 +88,7 @@ h1 {
 
 .roze {
   color: #fa6160;
-  /* font-size: 16px; */
+  font-size: 1.3em;
   font-weight: bold;
 }
 
@@ -118,6 +118,11 @@ main div {
   flex-wrap: wrap;
 }
 
+.verspringen {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
 main div figure {
   margin: 0.5em;
   max-width: 40%;
@@ -127,12 +132,21 @@ main div figure img {
   width: 10em;
 }
 
-main div figure img:hover {
+main div figure img:hover, focus {
   filter: grayscale(1);
   transition: all 1s;
   transform:rotate(-130deg) scale(2);
 }
 
+main div figcaption {
+  font-weight: bold;
+  font-size: 1em;
+  margin: .7em 0 0 0;
+}
+
+main img {
+  width: 20em;
+}
 
 main h2 {
   font-weight: bold;
@@ -146,18 +160,41 @@ main h3 {
 footer {
   background-color: #f2f2f2;
   padding: 1em;
+  padding-left: 2em;
+}
+
+footer p:first-of-type {
+  font-weight: bold;
 }
 
 footer p:nth-of-type(3) {
   font-weight: bold;
+  padding: 2em 0 ;
 }
 
-.groenebutton:hover {
+footer p:last-of-type {
+  font-size: .8em;
+  text-align: center;
+}
+
+footer img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+
+.groenebutton:hover, focus {
   background-color: grey;
 }
 
 a {
   text-decoration: none;
+}
+
+.normalelink {
+  color: hotpink;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .groenebutton {
@@ -176,9 +213,20 @@ a {
   border-radius: .2em;
 }
 
-.normalelink {
-  color: hotpink;
-  background-color: none;
+.groenebutton2 {
+  /* position: relative; */
+  left: 0;
+  background-color: #23A455;
+  color: white;
+  border: none;
+  width: 9em;
+  height: 2.5em;
+  display: block;
+  margin: 1em 0 0 0;
+  font-size: .9em;
+  text-align: center;
+  line-height: 2.5em;
+  border-radius: .2em;
 }
 
 
@@ -197,3 +245,4 @@ h2{
   100%{
     background-position: 100em 0;
   }
+}

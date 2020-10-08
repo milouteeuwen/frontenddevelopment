@@ -6,9 +6,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.youtube.com/watch?v=_CR0LVaGIQI
+2. https://www.aartjan.nl/css/index.html
+3. https://flexbox.io
+4. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+5. https://www.w3schools.com/css/css_align.asp
+6.
 
 
 
@@ -19,38 +22,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
-
-
-
-## Voortgang 3 (week 6)
-
--same as voortgang 1-
-
-
-
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
-
-
-
-## Voortgang 1 (week 3)
-
-### Stand van zaken
-
--dit ging goed & dit was lastig-
-
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
 
 
 
@@ -120,3 +91,28 @@ agenda punten voor morgen zijn:
  en 2 vragen
 - mag de margin om het hamburbermenu zo staan.
 - hoe kan ik de headers apart selecteren.
+
+## 1 oktober:
+Ik heb al veel tijd besteed aan het hamburger menu en dat is dan ook het enige wat ik op dat moment op kon leveren. Verder heb ik gezorgd dat de homepage nu af is en een footer etc bevat. Ik wilde een begin gaan maken aan de 2e pagina maar het menu kostte me zoveel tijd dat ik hier niet aan toegekomen ben.
+
+## 2-4 oktober:
+ik heb de smaak te pakken en ben meteen doorgegaan met animatie, ik heb de homepage nu vol zitten met 4 animaties waaronder 2x javascript, ik heb al een idee voor de volgende pagina om te maken dus daar ga ik mee verder morgen. Sidenote: ik heb deadlines voor deze week dus die heb ik even iets meer prioriteit gegeven.
+![](images/annimatie1.png)
+![](images/annimatie2.png )
+
+
+## 5 oktober:
+Vandaag vond ik de les heel interessant, ik heb wel het idee dat ik hier echt iets aan heb en ik was ook de hele les gefocussed en geïnteresseerd. Ik na het volgen van deze les begonnen met het maken van de 2e pagina. Die is nu zo goed als af, ik ben alleen tegen veel dingen aangelopen dus ik heb het gesprek voor morgen goed voorbereid zodat ik deze kan vragen tijdens het voortgangsgesprek van donderdag.
+1. hoe kan ik zonder classes verschillende elementen per pagina selecteren?
+2. Hoe krijg ik de groene buttons gelijk? [---  gelukt inmiddels!]
+3. Hoe krijg ik de active van mijn hamburgermenu volledig roze?
+4. Is mijh homepage voldoende?
+5. Heb ik teveel classes, zoja hoe kan ik dat oplossen(vooral javascript 1)?
+6. Is mijn html semantisch correct?
+7. Hoe doe ik het laten verspringen (javascript 3)?
+8. Hoe kan ik het kruisje laten switchen?
+9. Wat moet ik doen om mijn site toegankelijk te maken?
+
+## 8 oktober
+vandaag heb ik de header en footer afgemaakt, de iconen klikken nu door naar facebook en instagram etc. op een ander tablat. Verder heb ik op de footer ook de socails gezet en de margins hetzelfde gemaakt. De pagina voor het overzicht is ook klaar, ik heb ook de groene knoppen naast elkaar kunnen zetten dus die vraag kan ik weer afstrepen. Het enige dat ik nu nog wil is extra annimatie en micro interactie. Ook moet ik de paginas nog toegankelijk maken, als dit allemaal gelukt is ben ik tevreden!
+![](images/buttons.png)
