@@ -1,8 +1,6 @@
 # Procesverslag
 **Auteur:** -Milou Teeuwen-
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
 
 
 ## Bronnenlijst
@@ -11,34 +9,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 3. https://flexbox.io
 4. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 5. https://www.w3schools.com/css/css_align.asp
-6.
-
-
-
-## Eindgesprek (week 7/8)
-
--dit ging goed & dit was lastig-
-
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
-
+6. https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array
+7. https://www.w3schools.com/howto/howto_css_image_center.asp
+8. https://www.w3schools.com/TAgs/tryit.asp?filename=tryhtml_link_target
 
 
 ## Intake (week 1)
 
 **Je startniveau:** -blauw-
 
-**Je focus:** -responsive-
+**Je focus:** -surfice plane: annimation-
 
-**Je opdracht:** -https://www.mms.com/nl-nl/?gclid=Cj0KCQjw7sz6BRDYARIsAPHzrNLqJL7BIx9NYYniXHDVMPwQVjh6jtX9YL0RQXw_6D-J8PQnyBZk_d8aAj4JEALw_wcB-- (twijfel)
-
---https://www.dierenbescherming.nl/-- (deze het liefst)
+**Je opdracht:** -https://henry-stofzuigers.nl
 
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/homepage.png)
-
 
 
 ## les 1 (week 1)
@@ -113,6 +99,17 @@ Vandaag vond ik de les heel interessant, ik heb wel het idee dat ik hier echt ie
 8. Hoe kan ik het kruisje laten switchen?
 9. Wat moet ik doen om mijn site toegankelijk te maken?
 
+
+## 7 oktober:
+Vandaag beoordeling gehad, veel vragen gesteld en bijna allemaal binnen een paar minuten beantwoord . Git hub is goed bijgehouden en annimatie is voldoende. In de herfstvakantie aan de slag met css variable, comments toevoegen, een moeilijkere microinteractie van hamburgermenu naar kruisje en sortering van de detail pagina. Dan de final check en dan denk ik dat wanneer dat gelukt is ik klaar ben voor de beoordeling!!!
+
 ## 8 oktober
 vandaag heb ik de header en footer afgemaakt, de iconen klikken nu door naar facebook en instagram etc. op een ander tablat. Verder heb ik op de footer ook de socails gezet en de margins hetzelfde gemaakt. De pagina voor het overzicht is ook klaar, ik heb ook de groene knoppen naast elkaar kunnen zetten dus die vraag kan ik weer afstrepen. Het enige dat ik nu nog wil is extra annimatie en micro interactie. Ook moet ik de paginas nog toegankelijk maken, als dit allemaal gelukt is ben ik tevreden!
 ![](images/buttons.png)
+
+## 13 oktober:
+Ik heb alle puntjes op de i gezet. Ik heb mijn html en css nagelopen en aangevult met comments. Verder heb ik nog css variable toegevoegd voor de bonuspunten, ik had geen idee wat het precies was, maar nadat ik me erin verdiept had ik echt het idee dat ik hier wat aan heb voor de toekomst. Ik heb verder nog gekeken naar het hamburgermenu. Deze wilde ik laten draaien naar een kruis, het lukte me niet en ik was eigenlijk al tevreden dus ik heb het na 2 uur websites met voorbeelden opzoeken en mislukte pogingen in mijn html/css gelaten voor wat het was.
+![](images/cssvariable.png)
+
+# 15 oktober:
+Ik ben klaar voor het gesprek van 26 okt om 12.50 en heb het dan ook helemaal klaar staan om in te leveren.
