@@ -1,7 +1,8 @@
 console.log("doe tie t?");
 
-var menu = document.querySelector(".lala");
-var paginas = document.querySelector(".hehe");
+// hamburgermenu
+var menu = document.querySelector(".menu");
+var paginas = document.querySelector(".paginas");
 
 menu.addEventListener("click", laatZien);
 
@@ -11,6 +12,7 @@ function laatZien() {
 
 }
 
+// stofzuiger laten draaien
 var logo = document.querySelector("header nav img");
 var fotos = document.querySelector("main div figure img")
 
@@ -21,14 +23,10 @@ function rollerCoaster() {
   fotos.classList.toggle("draai");
 
 }
-
-// help!
+// sortering omdraaien
 var sortering = document.querySelector(".sortering");
-var alleFigures =
-// ik kan die fotos niet ophalen=, geen idee how!
-["foto 1",
-  ""
-]
+var alleFigures = document.querySelector(".stofzuigers")
+
 
 sortering.addEventListener("click", verspringen);
 
