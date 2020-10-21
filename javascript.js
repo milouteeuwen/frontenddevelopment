@@ -28,7 +28,8 @@ var sortering = document.querySelector(".sortering");
 var alleFigures = document.querySelector(".stofzuigers")
 
 
-sortering.addEventListener("click", verspringen);
+    sortering.addEventListener("click", verspringen);
+
 
 function verspringen() {
   alleFigures.classList.toggle("verspringen")
