@@ -206,6 +206,12 @@ a {
   background-color: rgba(0, 0, 0, 0);
 }
 
+.normalelink:hover, focus {
+  color: black;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0);
+}
+
 .groenebutton {
   position: relative;
   left: 0;
@@ -247,6 +253,7 @@ h2 {
 }
 
 @keyframes achtergrond {
+
   /* Wanneer de annimatie klaar is gaat hij weer vanaf
   het begin verder, je kan ook zeggen to ipv 100%. */
   100% {

@@ -111,5 +111,8 @@ vandaag heb ik de header en footer afgemaakt, de iconen klikken nu door naar fac
 Ik heb alle puntjes op de i gezet. Ik heb mijn html en css nagelopen en aangevult met comments. Verder heb ik nog css variable toegevoegd voor de bonuspunten, ik had geen idee wat het precies was, maar nadat ik me erin verdiept had ik echt het idee dat ik hier wat aan heb voor de toekomst. Ik heb verder nog gekeken naar het hamburgermenu. Deze wilde ik laten draaien naar een kruis, het lukte me niet en ik was eigenlijk al tevreden dus ik heb het na 2 uur websites met voorbeelden opzoeken en mislukte pogingen in mijn html/css gelaten voor wat het was.
 ![](images/cssvariable.png)
 
-# 15 oktober:
+## 15 oktober:
 Ik ben klaar voor het gesprek van 26 okt om 12.50 en heb het dan ook helemaal klaar staan om in te leveren.
+
+## 23 oktober
+Toch nog een idee te binnen gesprongen dus een suprise op de over mij page.
